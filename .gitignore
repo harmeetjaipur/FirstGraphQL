@@ -1,0 +1,13 @@
+*.DS_Store
+*.bak
+*.sw?
+*.swp
+*~
+.DS_Store
+node_modules/
+npm-debug.log
+sitemap.xml
+version.txt
+.vscode/
+.vscode
+.vscode/*
